@@ -1,6 +1,22 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Darshan BV </p>
+logo: /assets/img/Darshan_Photo.jpeg
+
+description:
+  <p align="center">
+  <a href="/assets/img/Resume-Darshan_BV">Resume</a> |
+  <a href="https://www.linkedin.com/in/darshan-bv-830714a7/">LinkedIn</a> |
+  <a href="https://github.com/Darshan-BV">GitHub</a>
+  
+  <br>   
+  Senior Software Engineer & Certified ScrumMaster (CSM) from Scrum Alliance at Cisco Systems. 
+  I have hands on in all the stages of software development cycle.
+  My tasks involve analysing software code, altering software code, fixing bugs & Customer debug sessions.
+  I have currently 10 years of experience, with a focus on Software Design and Development, with involvement 
+  in features like Hardware Offload for Cisco Firepower Threat Defence , Platform Software Development for Cisco Firepower platforms. 
+  Also, I have worked on the SNMP platform support for cisco UCS M5 & M6 platforms. 
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
